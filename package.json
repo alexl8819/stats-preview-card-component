@@ -1,0 +1,21 @@
+{
+  "name": "stats-preview-card-component-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)",
+  "browserslist": "> 0.5%, last 2 versions, not dead",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build --dist-dir public"
+  },
+  "author": "slightlyfunctional",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@fontsource/inter": "^5.0.1",
+    "@fontsource/lexend-deca": "^5.0.1",
+    "@parcel/transformer-sass": "^2.8.3",
+    "modern-normalize": "^2.0.0",
+    "parcel": "^2.8.3",
+    "sharp": "^0.31.3"
+  }
+}
