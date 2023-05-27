@@ -4,6 +4,8 @@
     "stylelint-selector-bem-pattern"
   ],
   "rules": {
+    "color-function-notation": "legacy",
+    "alpha-value-notation": "number",
     "selector-class-pattern": ".",
     "plugin/selector-bem-pattern": {
       "preset": "bem"
