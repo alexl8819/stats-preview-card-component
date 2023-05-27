@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://slightlyfunctional.gitlab.io/stats-preview-card-component/)
+- Live Site URL: [Stats Preview Card Component](https://slightlyfunctional.gitlab.io/stats-preview-card-component/)
 
 ## My process
 
