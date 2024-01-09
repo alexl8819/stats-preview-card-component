@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Stats Preview Card Component](https://slightlyfunctional.gitlab.io/stats-preview-card-component/)
+- Live Site URL: [Stats Preview Card Component](https://alexl8819.github.io/stats-preview-card-component/)
 
 ## My process
 
@@ -52,5 +52,4 @@ I learned about using `background-blend-mode` to overlay color over background i
 
 ## Author
 
-- Website - [slightlyfunctional.com](https://slightlyfunctional.com)
-- Frontend Mentor - [@slightlyfunctional](https://www.frontendmentor.io/profile/slightlyfunctional)
+- Frontend Mentor - [@alexl8819](https://www.frontendmentor.io/profile/alexl8819)
